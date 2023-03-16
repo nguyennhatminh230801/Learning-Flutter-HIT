@@ -1,0 +1,3 @@
+
+const String IMAGE_URL = "https://scontent.fhan5-2.fna.fbcdn.net/v/t39.30808-6/335014096_1239633820290576_3699605972509837550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=jy-kBaudsh4AX_AzulF&_nc_ht=scontent.fhan5-2.fna&oh=00_AfBE3z_JlwD5mU1MloD9M-d8EUvWAyqTSbhHROq1cd3Sxw&oe=64168F4D";
+const String BACKGROUND_URL = "https://burst.shopifycdn.com/photos/elaborate-building-interior-with-light-teal-walls.jpg?width=1200&format=pjpg&exif=1&iptc=1";
