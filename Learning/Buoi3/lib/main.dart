@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:learning_buoi_3/math/math_screen.dart';
 import 'package:learning_buoi_3/math/start_screen.dart';
 import 'package:learning_buoi_3/constant/constant.dart' as constant;
